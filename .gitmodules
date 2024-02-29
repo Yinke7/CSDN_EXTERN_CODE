@@ -1,0 +1,4 @@
+[submodule "IAP"]
+	path = IAP
+	url = https://github.com/Yinke7/IAP.git
+	bramch = master
